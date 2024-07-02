@@ -1,0 +1,1 @@
+discover-kosovo.vercel.app
